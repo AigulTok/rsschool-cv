@@ -6,7 +6,9 @@
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/aigul-toktassynova-79793b160/) | [github](https://github.com/AigulTok) | [gitlab](https://gitlab.com/AigulTok)
+## [LinkedIn](https://www.linkedin.com/in/aigul-toktassynova-79793b160/) | [github](https://github.com/AigulTok) | [gitlab](https://gitlab.com/AigulTok)
+
+---
 
 ### **SKILLS SUMMARY / OBJECTIVE**
 
@@ -20,6 +22,8 @@
 - Strong analytical skills, proven ability to consume information quickly and use efficiently (previous background as a pharmacist)
 - Microsoft Certificates in Database Fundamentals, Introduction to Programming using Python, Azure Data Fundamentals
 - Highly adaptable in any project, team, company (all levels of management from sales to director, and sole proprietorship)
+
+---
 
 ### **TRAINING / COURSES**
 
@@ -38,6 +42,8 @@ Backend Development Program: September 2022 – November 2022
 Python for Data Science course: January 2022 – March 2022
 Advanced SQL for Data Analysts with MSSQL course: November 2021 – December 2021
 
+---
+
 ### **PROJECTS**
 
 ---
@@ -51,6 +57,8 @@ Advanced SQL for Data Analysts with MSSQL course: November 2021 – December 202
 
 - The application with admin and bot microservices for developers to stack useful links as personal library which is available from any device with telegram application
 - GO, PHP, MySQL
+
+---
 
 ### **WORK EXPERIENCE**
 
@@ -78,6 +86,8 @@ Advanced SQL for Data Analysts with MSSQL course: November 2021 – December 202
 
 - Worked as Financial Coordinator, Investment Manager, and Assistant Accountant
 
+---
+
 ### **EDUCATION**
 
 ---
@@ -89,6 +99,8 @@ BS Pharm with Honors, Pharmacy: September 2017 - January 2020
 #### KIMEP University
 
 BSC, cum laude, Finance: September 2007 - January 2010
+
+---
 
 ### **LANGUAGES**
 
